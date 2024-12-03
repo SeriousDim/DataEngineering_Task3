@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5eeb690-dad9-4d8c-beaa-4ae561837e4e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2peTSTHbF7cJBxuenMUrwUCLMkP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.t.executor": "Run",
+    "Python.task1.executor": "Run",
+    "Python.task2.executor": "Run",
+    "Python.task3.executor": "Run",
+    "Python.task4.executor": "Run",
+    "Python.task5.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.types.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/YandexDisk/YandexDisk/My folder/УРФУ/Магистратура/Инженерия данных/test_3/task3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\YandexDisk\YandexDisk\My folder\УРФУ\Магистратура\Инженерия данных\test_3\task3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\YandexDisk\YandexDisk\My folder\УРФУ\Магистратура\Инженерия данных\test_3" />
+      <recent name="E:\YandexDisk\YandexDisk\My folder\УРФУ\Магистратура\Инженерия данных\test_3\task4" />
+      <recent name="E:\YandexDisk\YandexDisk\My folder\УРФУ\Магистратура\Инженерия данных\test_3\task3" />
+      <recent name="E:\YandexDisk\YandexDisk\My folder\УРФУ\Магистратура\Инженерия данных\test_3\task2" />
+      <recent name="E:\YandexDisk\YandexDisk\My folder\УРФУ\Магистратура\Инженерия данных\test_3\task1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5eeb690-dad9-4d8c-beaa-4ae561837e4e" name="Changes" comment="" />
+      <created>1733125541332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733125541332</updated>
+      <workItem from="1733125542236" duration="2991000" />
+      <workItem from="1733136889295" duration="24279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_3$t.coverage" NAME="t Coverage Results" MODIFIED="1733126685093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task1" />
+    <SUITE FILE_PATH="coverage/test_3$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1733163618519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task3" />
+    <SUITE FILE_PATH="coverage/test_3$types.coverage" NAME="types Coverage Results" MODIFIED="1733147766961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2" />
+    <SUITE FILE_PATH="coverage/test_3$task5.coverage" NAME="task5 Coverage Results" MODIFIED="1733169001166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task5" />
+    <SUITE FILE_PATH="coverage/test_3$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1733142108323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task1" />
+    <SUITE FILE_PATH="coverage/test_3$test.coverage" NAME="test Coverage Results" MODIFIED="1733145456050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2" />
+    <SUITE FILE_PATH="coverage/test_3$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1733166132157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task4" />
+    <SUITE FILE_PATH="coverage/test_3$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1733153754119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2" />
+  </component>
+</project>
